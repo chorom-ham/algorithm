@@ -3,7 +3,7 @@
 #include<queue>
 #include<algorithm>
 
-#define MAX 1001
+#define MAX 1000000
 #define INF 101
 
 using namespace std;
